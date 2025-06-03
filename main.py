@@ -1,3 +1,5 @@
+# si se quiere ejecutar este código, asegúrese de que Python esté instalado en su sistema. Se debe utilizar el comando py main.py en la terminal o consola.
+
 # Definimos una clase Usuario para manejar los datos de los usuarios registrados.
 
 class Usuario:
