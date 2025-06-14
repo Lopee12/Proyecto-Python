@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Paquete_Python
+Version: 0.1
+Summary: Mi primer paquete en Python
+Author: Nicolas
+Author-email: nlopezosornio@email.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
